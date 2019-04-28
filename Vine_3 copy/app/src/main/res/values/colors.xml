@@ -5,4 +5,6 @@
     <color name="colorAccent">#D81B60</color>
     <color name="colorBackground">#00a478</color>
     <color name="colorButton">#525252</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorVine">#00b488</color>
 </resources>
