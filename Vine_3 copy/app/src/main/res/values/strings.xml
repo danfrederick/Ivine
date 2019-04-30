@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">SynthSlayer</string>
+    <string name="app_name">vIne 1.5</string>
     <string name="jeff_with_a_g">jeff with a g</string>
-    <string name="me_in_lecture">Me in lecture</string>
-    <string name="when_you_see_green_on_an_mp">When you see green on an mp</string>
-    <string name="entering_cbtf">Entering CBTF</string>
+    <string name="me_in_lecture">me in lecture</string>
+    <string name="when_you_see_green_on_an_mp">when you see green on an mp</string>
+    <string name="entering_cbtf">entering CBTF</string>
     <string name="cs_feels">cs feels</string>
     <string name="random_vines">random vines</string>
 
